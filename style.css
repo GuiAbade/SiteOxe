@@ -1,0 +1,48 @@
+header{
+  text-align: center;
+  color: aliceblue;
+  font-size: 40px;
+  height: 15px;
+
+}
+
+body{
+    height: 0%;
+    margin: 0;
+  }
+  
+  .bg{
+    background-image: url(oxe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+#menu{
+  background-color: bisque;
+  padding: 10px;
+  text-decoration: none;
+  
+
+  text-align: center;
+  font-size: 34px;
+
+  margin-top: 5%;
+ }
+
+ nav a{
+  background-color: bisque;
+  padding: 10px;
+  text-decoration: none;
+ }
+
+
+
+ footer{
+   color: aliceblue;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+ }
